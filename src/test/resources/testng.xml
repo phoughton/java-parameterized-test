@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgMavenExampleSuite" parallel="false">
+  <test name="TestNgMavenTest">
+    <classes>TestXMLFile
+      <class name="com.investigatingsoftware.app.TestXMLFile"/>
+      <class name="com.investigatingsoftware.app.RESTJsonTest"/>
+    </classes>
+  </test>
+</suite>
